@@ -1,9 +1,9 @@
 {
-  "name": "dtkahl/php-mailer-helper",
+  "name": "dtkahl/phpmailer-helper",
   "license": "MIT",
   "require": {
     "php": ">=5.6.0",
-    "phpmailer/phpmailer": "^5.2"
+    "phpmailer/phpmailer": "*"
   },
   "autoload": {
     "psr-4": {
